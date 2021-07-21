@@ -2,7 +2,7 @@
 
 ## All Java Code Challenge Solutions with Questions included 
 
-### Question is included for each challenge on top of the solution in src folder, the questions included are only for challenges exclusive to website. 
+### Question is included for each challenge on top of the solution java file in src folder. 
 
 ### Challenges solved by me from the Udemy course by Tim. If you found this helpful, star it :star2:
 
