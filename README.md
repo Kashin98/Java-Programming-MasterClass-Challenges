@@ -1,4 +1,4 @@
-# Udemy - Java Programming Masterclass covering Java 11 & Java 17 (Tim Buchalka) - Code Challenges
+# Udemy - Java Programming Masterclass covering Java 11 & Java 17 (Tim Buchalka) - Code Challenges & Questions
 
 ## All Java Code Challenge Solutions with Questions included 
 
