@@ -1,4 +1,4 @@
-# Tim Buchalka - Java Programming Masterclass - Code Challenges With Questions 2021
+# Tim Buchalka - Java Programming Masterclass 2021 - Code Challenges With Questions 
 
 ## All Java Code Challenge Solutions with Questions included 
 
