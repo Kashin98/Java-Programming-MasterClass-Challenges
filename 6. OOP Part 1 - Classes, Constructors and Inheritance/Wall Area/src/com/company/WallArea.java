@@ -64,15 +64,21 @@ public class WallArea {
     }
 
     public WallArea(double width, double height) {
-        if(width < 0 ){
-            this.width = 0.0d;
-        }
-        else  if (height < 0){
-            this.height = 0.0d;
-        }
-        else{
+        if(width >= 0 && height >= 0){
             this.width = width;
             this.height = height;
+        }
+        if (width < 0){
+            this.width = 0;
+            this.height = height;
+        }
+        if ( height < 0){
+            this.height = 0;
+            this.width = width;
+        }
+        if ( height < 0 && width < 0){
+            this.height = 0;
+            this.width = 0;
         }
     }
 
@@ -109,3 +115,5 @@ public class WallArea {
         return this.width * this.height;
     }
 }
+
+
